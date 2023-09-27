@@ -16,4 +16,4 @@ The bar graph height did not have a dash line for the bar height of the county a
 No challenges were encountered with Flask with Matplotlib Visualization.
 The app was easily generated using the terminal and the graph functioned as intended.
 
-The code in R is similar to the code in python, which allows one to easily understand of the purpose of the code between the 2 different languages.
+The code in R is similar to the code in python, which allows one to easily understand the purpose of the code between the 2 different languages.
