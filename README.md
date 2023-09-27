@@ -1,7 +1,7 @@
 # datasci_4_web_viz
 
 **1. R's Shiny Visualization**
-Challenges: syntax error near unexpected token `name='kettip',' occurred when inputting code for deploying the app in R: rsconnect::setAccountInfo(name="<ACCOUNT>", token="<TOKEN>", secret="<SECRET>") and associated information in the Posit terminal or cloud shell terminal. Reason for this error is unknown as the code does not visually contain the unexpected token. It was also directly copied from shiny.io token dashboard, therefore there should be no unexpected token. Manual typing of the code lead to the same error. However the app was generated without the code in Posit that can be access with the following link: <https://posit.cloud/content/6637363>
+Challenges: syntax error near unexpected token `name='kettip',' occurred when inputting code for deploying the app in R: rsconnect::setAccountInfo(name="<ACCOUNT>", token="<TOKEN>", secret="<SECRET>") and associated information in the Posit terminal or cloud shell terminal. Reason for this error is unknown as the code does not visually contain the unexpected token. It was also directly copied from shiny.io token dashboard, therefore there should be no unexpected token. Manual typing of the code lead to the same error. However the app was generated without the code in Posit that can be access with the following link: <https://posit.cloud/content/6637766>
 
 Posit recommends packages for installation which allows for easy installation and saves users time. However, the generated bar graph did not function properly because When a different county was selected from the drop down menu, the bar graph did not display. Bar graph was only displayed for the first default county. 
 
