@@ -5,7 +5,7 @@ library(dplyr)
 
 # UI for the Shiny app
 ui <- fluidPage(
-  titlePanel("obesity Drinking Age-adjusted Prevalence in NY by County"),
+  titlePanel("Obesity Age-adjusted Prevalence in CT by County"),
   sidebarLayout(
     sidebarPanel(
       selectInput("county", "Choose a county:", choices = NULL)
